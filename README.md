@@ -1,0 +1,2 @@
+# Revolutionizing-Social-Media-Security-Unleashing-the-Potential-of-Federated-Learning-
+Federated learning offers a solution by enabling ML model training directly on users' mobile devices, preserving privacy, optimizing resources. This paper reviews federated learning in social networks, emphasizing user data control, reduced risk, while addressing open challenges and future research directions in domains .
